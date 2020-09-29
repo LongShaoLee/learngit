@@ -5,3 +5,4 @@ Git tracks changes of files.
 send 2 remote server.
 
 learn and create branch dev
+Creating a new branch is quick & simple.

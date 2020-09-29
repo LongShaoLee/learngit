@@ -10,5 +10,5 @@ Creating a new branch is quick And simple.
 
 
 
-create a simple dev node.
+create a simple dev nodes.
 李少龙
